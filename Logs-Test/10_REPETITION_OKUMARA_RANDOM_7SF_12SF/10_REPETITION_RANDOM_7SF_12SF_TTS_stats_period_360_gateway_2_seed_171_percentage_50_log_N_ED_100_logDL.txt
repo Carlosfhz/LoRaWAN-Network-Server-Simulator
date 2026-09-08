@@ -1,0 +1,187 @@
+spawn ./ns3 run --enable-sudo elora-example-two-channels --log --test --devices=100 --period=360 --gateways=2 -seed=171 --title=OKUMARA_RANDOM_7SF_12SF/10_REPETITION_RANDOM_7SF_12SF_TTS_stats_period_360_gateway_2_seed_171_percentage_50_log_N_ED_100 --perConfirmed=50
+[0/2] Re-checking globbed directories...[K
+ninja: no work to do.
+Sudo password:
+Area: 20.2683 km^2, Density: 4.93381 devs/km^2
+
+|- SF distribution:    SF7:15, SF8:0, SF9:0, SF10:0, SF11:0, SF12:85, 
+
+All configurations terminated. Starting simulation...
+
+--------------------------------------------------------------------------------
+End Device 3: Position(1786.56, 970.081, 1), Periodicity: Not set, Spreading Factor 12
+End Device 4: Position(1244.88, -1060.32, 1), Periodicity: Not set, Spreading Factor 12
+End Device 5: Position(-2194.36, -402.896, 1), Periodicity: Not set, Spreading Factor 12
+End Device 6: Position(966.114, 1422.58, 1), Periodicity: Not set, Spreading Factor 12
+End Device 7: Position(-753.158, -1873.25, 1), Periodicity: Not set, Spreading Factor 12
+End Device 8: Position(-2279.01, -111.566, 1), Periodicity: Not set, Spreading Factor 12
+End Device 9: Position(-873.624, 1014.75, 1), Periodicity: Not set, Spreading Factor 12
+End Device 10: Position(1159.48, 903.223, 1), Periodicity: Not set, Spreading Factor 12
+End Device 11: Position(1507.62, -1999.04, 1), Periodicity: Not set, Spreading Factor 12
+End Device 12: Position(1764.04, 804.767, 1), Periodicity: Not set, Spreading Factor 12
+End Device 13: Position(-266.529, -1237.92, 1), Periodicity: Not set, Spreading Factor 12
+End Device 14: Position(-144.901, -123.994, 1), Periodicity: Not set, Spreading Factor 7
+End Device 15: Position(1640.22, 1456.09, 1), Periodicity: Not set, Spreading Factor 12
+End Device 16: Position(1728.5, 492.149, 1), Periodicity: Not set, Spreading Factor 12
+End Device 17: Position(2171.58, 688.746, 1), Periodicity: Not set, Spreading Factor 12
+End Device 18: Position(1865.55, -1697.46, 1), Periodicity: Not set, Spreading Factor 12
+End Device 19: Position(279.634, 2078.22, 1), Periodicity: Not set, Spreading Factor 12
+End Device 20: Position(45.7389, 1817.69, 1), Periodicity: Not set, Spreading Factor 12
+End Device 21: Position(517.157, -72.4566, 1), Periodicity: Not set, Spreading Factor 7
+End Device 22: Position(-1418.18, 1168.34, 1), Periodicity: Not set, Spreading Factor 12
+End Device 23: Position(2103.84, -1216.04, 1), Periodicity: Not set, Spreading Factor 12
+End Device 24: Position(1655.1, 1391.47, 1), Periodicity: Not set, Spreading Factor 12
+End Device 25: Position(-841.24, -276.955, 1), Periodicity: Not set, Spreading Factor 7
+End Device 26: Position(662.11, -1519.84, 1), Periodicity: Not set, Spreading Factor 12
+End Device 27: Position(-1291.34, 2019.83, 1), Periodicity: Not set, Spreading Factor 12
+End Device 28: Position(-504.35, 1989.31, 1), Periodicity: Not set, Spreading Factor 12
+End Device 29: Position(2108.15, -289.105, 1), Periodicity: Not set, Spreading Factor 12
+End Device 30: Position(-1932.72, -351.906, 1), Periodicity: Not set, Spreading Factor 12
+End Device 31: Position(1178.17, -1950.45, 1), Periodicity: Not set, Spreading Factor 12
+End Device 32: Position(701.014, 1690.53, 1), Periodicity: Not set, Spreading Factor 12
+End Device 33: Position(-1803.25, -370.828, 1), Periodicity: Not set, Spreading Factor 12
+End Device 34: Position(-2448.9, 145.115, 1), Periodicity: Not set, Spreading Factor 12
+End Device 35: Position(1656.68, -183.414, 1), Periodicity: Not set, Spreading Factor 12
+End Device 36: Position(990.996, -1189.83, 1), Periodicity: Not set, Spreading Factor 12
+End Device 37: Position(-189.48, -588.316, 1), Periodicity: Not set, Spreading Factor 7
+End Device 38: Position(-805.841, 817.32, 1), Periodicity: Not set, Spreading Factor 12
+End Device 39: Position(1761.84, -720.811, 1), Periodicity: Not set, Spreading Factor 12
+End Device 40: Position(97.2497, -480.177, 1), Periodicity: Not set, Spreading Factor 7
+End Device 41: Position(1855.47, 1640.54, 1), Periodicity: Not set, Spreading Factor 12
+End Device 42: Position(2351.17, -353.786, 1), Periodicity: Not set, Spreading Factor 12
+End Device 43: Position(832.242, -108.186, 1), Periodicity: Not set, Spreading Factor 7
+End Device 44: Position(508.691, 1140.27, 1), Periodicity: Not set, Spreading Factor 12
+End Device 45: Position(-2335.4, 453.121, 1), Periodicity: Not set, Spreading Factor 12
+End Device 46: Position(1580.55, -1779.82, 1), Periodicity: Not set, Spreading Factor 12
+End Device 47: Position(2057.06, 531.163, 1), Periodicity: Not set, Spreading Factor 12
+End Device 48: Position(599.001, -1926.34, 1), Periodicity: Not set, Spreading Factor 12
+End Device 49: Position(-931.721, 2089.48, 1), Periodicity: Not set, Spreading Factor 12
+End Device 50: Position(-606.122, -2321.56, 1), Periodicity: Not set, Spreading Factor 12
+End Device 51: Position(2388.4, 271.593, 1), Periodicity: Not set, Spreading Factor 12
+End Device 52: Position(381.151, 1108.46, 1), Periodicity: Not set, Spreading Factor 12
+End Device 53: Position(1202.8, -579.423, 1), Periodicity: Not set, Spreading Factor 12
+End Device 54: Position(-1906.11, -1025.23, 1), Periodicity: Not set, Spreading Factor 12
+End Device 55: Position(-626.034, -2409.83, 1), Periodicity: Not set, Spreading Factor 12
+End Device 56: Position(-638.387, -1314.41, 1), Periodicity: Not set, Spreading Factor 12
+End Device 57: Position(-562.593, -1129.04, 1), Periodicity: Not set, Spreading Factor 12
+End Device 58: Position(208.283, -751.711, 1), Periodicity: Not set, Spreading Factor 7
+End Device 59: Position(470.724, 80.6671, 1), Periodicity: Not set, Spreading Factor 7
+End Device 60: Position(-1230.43, 1113.9, 1), Periodicity: Not set, Spreading Factor 12
+End Device 61: Position(-1398.98, 732.172, 1), Periodicity: Not set, Spreading Factor 12
+End Device 62: Position(-121.063, -1568.31, 1), Periodicity: Not set, Spreading Factor 12
+End Device 63: Position(601.791, 285.243, 1), Periodicity: Not set, Spreading Factor 7
+End Device 64: Position(430.759, -2415.2, 1), Periodicity: Not set, Spreading Factor 12
+End Device 65: Position(1192.39, -717.624, 1), Periodicity: Not set, Spreading Factor 12
+End Device 66: Position(1039.03, -506.752, 1), Periodicity: Not set, Spreading Factor 12
+End Device 67: Position(642.549, 1761.7, 1), Periodicity: Not set, Spreading Factor 12
+End Device 68: Position(875.213, -1219.09, 1), Periodicity: Not set, Spreading Factor 12
+End Device 69: Position(-787.236, -1789.72, 1), Periodicity: Not set, Spreading Factor 12
+End Device 70: Position(1606.94, -1604.86, 1), Periodicity: Not set, Spreading Factor 12
+End Device 71: Position(-1398.91, 1867.01, 1), Periodicity: Not set, Spreading Factor 12
+End Device 72: Position(2255.95, 673.703, 1), Periodicity: Not set, Spreading Factor 12
+End Device 73: Position(-1828.59, 1215.53, 1), Periodicity: Not set, Spreading Factor 12
+End Device 74: Position(-2373.69, -201.049, 1), Periodicity: Not set, Spreading Factor 12
+End Device 75: Position(503.63, 1386.27, 1), Periodicity: Not set, Spreading Factor 12
+End Device 76: Position(-818.927, 532.612, 1), Periodicity: Not set, Spreading Factor 7
+End Device 77: Position(251.616, 2487.26, 1), Periodicity: Not set, Spreading Factor 12
+End Device 78: Position(-376.948, 562.111, 1), Periodicity: Not set, Spreading Factor 7
+End Device 79: Position(-1224.6, 423.414, 1), Periodicity: Not set, Spreading Factor 12
+End Device 80: Position(-2232.71, -492.697, 1), Periodicity: Not set, Spreading Factor 12
+End Device 81: Position(1703.82, 329.336, 1), Periodicity: Not set, Spreading Factor 12
+End Device 82: Position(940.013, -697.232, 1), Periodicity: Not set, Spreading Factor 12
+End Device 83: Position(-1250.16, 1889.93, 1), Periodicity: Not set, Spreading Factor 12
+End Device 84: Position(-96.2408, -175.515, 1), Periodicity: Not set, Spreading Factor 7
+End Device 85: Position(-1176.69, 2204.19, 1), Periodicity: Not set, Spreading Factor 12
+End Device 86: Position(-892.032, 561.764, 1), Periodicity: Not set, Spreading Factor 7
+End Device 87: Position(774.327, -1988.79, 1), Periodicity: Not set, Spreading Factor 12
+End Device 88: Position(-535.02, 177.088, 1), Periodicity: Not set, Spreading Factor 7
+End Device 89: Position(-912.926, -1912.93, 1), Periodicity: Not set, Spreading Factor 12
+End Device 90: Position(1324.52, 1139.58, 1), Periodicity: Not set, Spreading Factor 12
+End Device 91: Position(-817.806, -0.361753, 1), Periodicity: Not set, Spreading Factor 7
+End Device 92: Position(624.975, -1541.28, 1), Periodicity: Not set, Spreading Factor 12
+End Device 93: Position(-2366.66, -352.765, 1), Periodicity: Not set, Spreading Factor 12
+End Device 94: Position(-1824.85, -1445.86, 1), Periodicity: Not set, Spreading Factor 12
+End Device 95: Position(-1195.47, 729.047, 1), Periodicity: Not set, Spreading Factor 12
+End Device 96: Position(1562.07, -754.511, 1), Periodicity: Not set, Spreading Factor 12
+End Device 97: Position(1741.56, 1841.78, 1), Periodicity: Not set, Spreading Factor 12
+End Device 98: Position(-2242.62, -610.468, 1), Periodicity: Not set, Spreading Factor 12
+End Device 99: Position(976.774, -1202.31, 1), Periodicity: Not set, Spreading Factor 12
+End Device 100: Position(-1473.89, 284.611, 1), Periodicity: Not set, Spreading Factor 12
+End Device 101: Position(1210.01, 202.352, 1), Periodicity: Not set, Spreading Factor 12
+End Device 102: Position(-1911.49, -711.905, 1), Periodicity: Not set, Spreading Factor 12
+Gateways 1: Position(0, 0, 1)
+Gateways 2: Position(-0, 4399.41, 1)
+--Start--
+Simulated time: 0 hours, Real time from last call: 0 seconds
+--Finish--
+Uplink Statistics
+
+Packets outcomes distribution (972 sent, 908 received):
+  RECEIVED: 93.4156%
+  INTERFERED: 6.27572%
+  NO_MORE_RECEIVERS: 0%
+  BUSY_GATEWAY: 0%
+  UNDER_SENSITIVITY: 0.308642%
+  CONF BUSY_GATEWAY: 0%
+ UNCONF BUSY_GATEWAY: 0%
+ CONF UNDER_SENSITIVITY: 0.102881%
+  UNCONF UNDER_SENSITIVITY: 0.205761%
+----------------------------------------------------------------
+  RECEIVED: 908
+  INTERFERED: 61
+  NO_MORE_RECEIVERS: 0
+  BUSY_GATEWAY: 0
+  UNDER_SENSITIVITY: 3
+  CONF BUSY_GATEWAY: 0
+ UNCONF BUSY_GATEWAY: 0
+  CONF UNDER_SENSITIVITY: 1
+ UNCONF UNDER_SENSITIVITY: 2
+
+PDR: SF7 100%, SF8 nan%, SF9 nan%, SF10 nan%, SF11 nan%, SF12 92%, 
+
+Input Traffic: 71.28 b/s
+Network Throughput: 66.5867 b/s
+
+Total (empirical) offered traffic: 0.405755 E
+
+##########################################
+Downlink Statistics
+#Pkt Scheduled: 0
+#Pkt drop late: 0
+# Pkt Loss due Tx: 0
+# Pkt Tx: 0
+
+   Packets outcomes distribution (0 sent, 0 received):%
+  DUTY CYCLE: nan
+   RECEIVED: nan%
+  INTERFERED: nan%
+  NO_MORE_RECEIVERS: nan%
+  BUSY_GATEWAY: nan%
+  UNDER_SENSITIVITY: nan%
+----------------------------------------------------------------%
+ SCHEDULLED: 0%
+  DUTY CYCLE: 0
+  RECEIVED: 0
+  INTERFERED: 0
+  NO_MORE_RECEIVERS: 0
+  BUSY_GATEWAY: 0
+  UNDER_SENSITIVITY: 0
+
+PDR: SF7 nan%, SF8 nan%, SF9 nan%, SF10 nan%, SF11 nan%, SF12 nan%, 
+
+Input Traffic: 0 b/s
+Network Throughput: 0 b/s
+
+Total (empirical) offered traffic: 0 E
+
+##########################################
+Sent UPLINKS: 972 - Received UPLINKS: 908
+Confirm UPLINKS: 504 - Received ACK: 0
+
+Tear down process terminated after receiving signal 0
+
+Tear down process terminated after receiving signal 0
+spawn_id: spawn id exp4 not open
+    while executing
+"interact"
+    (file "./run_ns3.sh" line 31)
